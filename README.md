@@ -10,8 +10,11 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
 
-![](public/)
+![Listagem](public/Captura%20de%20tela_16-5-2026_93847_127.0.0.1.jpeg)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
 
-![](public/)
+![Resumo](public/Captura%20de%20tela_16-5-2026_93755_127.0.0.1.jpeg)
+
+<<  COLOQUE A IMAGEM - Console - AQUI >>
+![Console](public/Captura%20de%20tela%202026-05-16%20094025.jpg)
