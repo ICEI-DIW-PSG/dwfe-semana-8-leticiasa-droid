@@ -225,4 +225,3 @@ function carregarCatalogo() {
 
     divOutput.innerHTML = tela;
 }
->>>>>>> main
